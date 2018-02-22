@@ -19,6 +19,7 @@ public class Practica1 {
         
         // Prueba función factorial
         System.out.println(Factorial.factorial(5));
+        System.out.println(Potencia.potencia(3, 2));
     }
     
 }
