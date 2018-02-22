@@ -20,6 +20,7 @@ public class Practica1 {
         System.out.println(RaizCuadrada.RaizCuadrada(5));
         System.out.println(Factorial.factorial(5));
         System.out.println(Potencia.potencia(3, 2));
+        System.out.println(PotenciaCubo.potenciacubo(3.5));
     }
     
 }
