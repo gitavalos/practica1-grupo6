@@ -16,6 +16,9 @@ public class Practica1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        // Prueba función factorial
+        System.out.println(Factorial.factorial(5));
     }
     
 }
