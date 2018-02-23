@@ -16,7 +16,8 @@ public class Practica1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.print(Division.Division(20, 5));
+        System.out.println(Multiplicacion.Multiplicacion(5,2));
         System.out.println(RaizCuadrada.RaizCuadrada(5));
         System.out.println(Factorial.factorial(5));
         System.out.println(Potencia.potencia(3, 2));
