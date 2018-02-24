@@ -12,6 +12,11 @@ package practica1;
 public class Division {
 
     public static int Division(int num1, int num2) {
-        return num1 / num2;
+        if (num2 != 0) {
+            return num1 / num2;
+        } else {
+            System.out.println("No es posible dividir entre 0");
+            return 0;
+        }
     }
 }
